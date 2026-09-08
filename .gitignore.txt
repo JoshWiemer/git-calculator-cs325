@@ -1,0 +1,18 @@
+
+pycache/
+.key*
+key.txt
+
+# JUST SOME MORE EXAMPLES
+.env
+.env.*
+!.env.example # <-----TRY TO UNDERSTAND WHAT the symbol ! means here
+*.pem
+*.key
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.idea/
